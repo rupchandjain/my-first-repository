@@ -1,2 +1,3 @@
 # my-first-repository
-This Is My First Repository
+This is my first Git Repository.
+Author - Rupchand Jain
